@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Run Backend service
+npm install -g json-server
+json-server product.json from the fake-api folder in project root
 ## Available Scripts
 
 In the project directory, you can run:
